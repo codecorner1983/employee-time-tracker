@@ -1,6 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": null,
-  "ignoreCommand": "echo 'Skipping ignored files'"
+  "framework": null
 }
